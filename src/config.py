@@ -1,9 +1,0 @@
-
-MODEL = 0
-DATASET = 0
-
-MAX_LEN = 128
-TRAIN_BATCH_SIZE = 8
-VALID_BATCH_SIZE = 8
-EPOCHS = 2
-MODEL_PATH = 'twitter_ner/models/'
